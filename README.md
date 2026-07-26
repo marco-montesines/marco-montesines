@@ -2,7 +2,8 @@
 
 Software engineering leader — AI-assisted engineering workflows, cloud
 infrastructure, data platforms, and high-throughput systems. Go · Python ·
-PHP, building since 2002 and still close to the code.
+PHP, building since 2002 and still close to the code. Built self-healing
+infrastructure because “see you at 3 a.m.” isn’t an engineering strategy.
 
 ```go
 package marco
@@ -41,10 +42,7 @@ func (m Motivation) HealthCheck() error {
 - 📈 day job: the pipes behind 20+ financial-media portals — ~2B documents
   searched, ~1.64B rows analyzed, 99.9% uptime (the remaining 0.1% still
   haunts me)
-- 🤖 AI writes my boilerplate and reviews my code — the interesting problems
-  remain loyal to me
+- 🤖 AI writes my boilerplate — the interesting problems remain loyal to me
+- 🔍 taught AI to review my code — it learned my standards, not my shortcuts
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mamontesines) · [GitLab](https://gitlab.com/marco.montesines)
 - ♻️ current status: `for { improve() }`
-
-Built self-healing infrastructure because “see you at 3 a.m.” isn’t an
-engineering strategy.
