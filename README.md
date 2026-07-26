@@ -46,5 +46,5 @@ func (m Motivation) HealthCheck() error {
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mamontesines) · [GitLab](https://gitlab.com/marco.montesines)
 - ♻️ current status: `for { improve() }`
 
-I taught my servers to heal themselves — mostly so 3 a.m. and I could stop
-meeting.
+Built self-healing infrastructure because “see you at 3 a.m.” isn’t an
+engineering strategy.
