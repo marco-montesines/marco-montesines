@@ -35,9 +35,11 @@ func (m Motivation) HealthCheck() error {
 > the genius repeats with purpose to create it."
 
 - 🖥️ [marco-montesines.github.io](https://marco-montesines.github.io/) — an
-  OS with exactly one user: boot screen, Spotlight, draggable windows, a
-  working terminal (try `exit`), music, and apps named in Tagalog — Sulat
-  ✍️, Hanap 🔍, Likha 💻, Harapan 🎥. A brief overview of me lives inside.
+  OS with exactly one user: boot + login screen, Spotlight, draggable
+  windows, a working terminal (try `exit`), dock magnification, music, a
+  Finance app with charts, English · Deutsch — and Harapan 🎥, the video
+  call that rings shortly after you land. A brief overview of me lives
+  inside.
 - 🩺 [maagaparuga](https://github.com/marco-montesines/maagaparuga) —
   MaagapAruga (Tagalog: proactive, nurturing care), an open-source research
   & educational care-platform framework: telemedicine records, biotelemetry
