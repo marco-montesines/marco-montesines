@@ -38,6 +38,12 @@ func (m Motivation) HealthCheck() error {
   OS with exactly one user: boot screen, Spotlight, draggable windows, a
   working terminal (try `exit`), music, and apps named in Tagalog — Sulat
   ✍️, Hanap 🔍, Likha 💻, Harapan 🎥. A brief overview of me lives inside.
+- 🩺 [maagaparuga](https://github.com/marco-montesines/maagaparuga) —
+  MaagapAruga (Tagalog: proactive, nurturing care), an open-source research
+  & educational care-platform framework: telemedicine records, biotelemetry
+  ingest, assessment scoring. Go · Python · PHP microservices, gRPC to
+  GraphQL, Kubernetes to Terraform — production-grade platform, strictly
+  fictitious patients.
 - 🔧 [haveibeenpwned](https://github.com/marco-montesines/haveibeenpwned) — unofficial Go client for the HIBP API v3
 - 📈 day job: the pipes behind 20+ financial-media portals — ~2B documents
   searched, ~1.64B rows analyzed, 99.9% uptime (the remaining 0.1% still
