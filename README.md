@@ -46,3 +46,6 @@ func (m Motivation) HealthCheck() error {
 - 🔍 taught AI to review my code — it learned my standards, not my shortcuts
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mamontesines) · [GitLab](https://gitlab.com/marco.montesines)
 - ♻️ current status: `for { improve() }`
+
+The servers recover. I stay unconscious. The best pager alert is the one
+the AI quietly resolves before I notice.
